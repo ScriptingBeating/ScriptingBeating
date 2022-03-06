@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScriptingBeating (aka Mohan Sharma)
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Open Source Stuff
 - 📫 How to reach me : mohansharma201.ms@gmail.com
 
